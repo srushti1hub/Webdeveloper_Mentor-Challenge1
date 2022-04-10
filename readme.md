@@ -4,7 +4,7 @@
 
 ### What to do when you completed the challenge?
 
-First you need to make your challenge visible to others. Yoy can do so by uploading it to one of the free static hosting providers. Below is the list of the most popular ones:
+First you need to make your challenge visible to others. You can do so by uploading it to one of the free static hosting providers. Below is the list of the most popular ones:
 
 -   [Netlify](https://www.netlify.com/) - recommended
 -   [GitHub Pages](https://pages.github.com/)
