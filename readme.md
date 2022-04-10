@@ -22,7 +22,3 @@ In order to submit your solution please follow these steps:
 2. Click 'Submit Solution' button next to the challenge.
 
 You will be prompted to enter Title, Github repoitory URL, Live preview URL (can be Netlify, Vercel, Github Pages or even your own server), and tell the community what challenges you've faced.
-
-### Join our community on Discord
-
-~~You can join our [Free Discord Server ](https://discord.com) if you want communicate with other members or ask questions regarding your challenges.~~
